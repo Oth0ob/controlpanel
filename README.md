@@ -1,0 +1,1 @@
+I created a server using xampp and created a trends database using phpmyadmin. Then I created a website that included a control panel linked to the trends database in html and javascript and placed them in the htdocs file inside the xampp file.
