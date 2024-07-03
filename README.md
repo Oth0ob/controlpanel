@@ -1,1 +1,1 @@
-I created a server using xampp and created a trends database using phpmyadmin. Then I created a website that included a control panel linked to the trends database in html and javascript and placed them in the htdocs file inside the xampp file.
+I created a server using xampp and created a directions database using phpmyadmin. Then I created a website that included a control panel linked to the directions database by html and javascript and placed them in the htdocs file inside the xampp file.
